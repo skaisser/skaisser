@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skaisser" alt="skaisser" /></a> </p>
 
-- 🔭 I’m currently working on [Braip](https://braip.com)
-
-- 🌱 I’m currently learning **Fundraising and M&A**
+- 🔭 I’m currently working on raising capital for the Next Unicorn 🦄 If interested, Contact me at kaiser@kpgsa.com
+  
+- 🌱 I've sucessufly foundednd and exited a 🦄 **Fundraising and M&A**
 
 - 🤝 I’m looking for help with [Kapsula](https://kapsula.com.br)
 
@@ -17,11 +17,13 @@
 
 - 💬 Ask me about **anything**
 
+- 🔭 I’m currently working on some opensource projects as well
+
 - 📫 How to reach me **kaiser@kpgsa.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/smkaisser/](https://www.linkedin.com/in/smkaisser/)
 
-- ⚡ Fun fact **I got more than 2 Milion followers on social networks.**
+- ⚡ Fun fact **I got more than 3 Milion followers on social networks.** and **i've also founded a 🦄 from idea to exit!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
